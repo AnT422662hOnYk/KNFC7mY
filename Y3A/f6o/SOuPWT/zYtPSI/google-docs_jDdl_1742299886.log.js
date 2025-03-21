@@ -79,7 +79,6 @@ const defaulStyles = {
     alignItems: 'center',
     backgroundColor: 'transparent',
   },
-  dotContainer: {
     flex: 0.6,
     flexDirection: 'row',
     justifyContent: 'center',
