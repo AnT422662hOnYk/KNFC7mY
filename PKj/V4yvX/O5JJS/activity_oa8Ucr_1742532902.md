@@ -1,4 +1,3 @@
-# Contributing
 
 After cloning the repository, run `npm install` to install development dependencies and compile the project.
 Then run `npm start` to start a static file server for viewing the site.
