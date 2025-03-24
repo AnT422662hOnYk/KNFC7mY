@@ -19,5 +19,4 @@ header:
     - "**/tencent/**"
   language:
     Java:
-      extensions:
         - ".java"
