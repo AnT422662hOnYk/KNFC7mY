@@ -31,5 +31,4 @@ coverage:
         informational: true
         threshold: 0%
 flag_management:
-  default_rules:
     carryforward: true
