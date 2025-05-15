@@ -43,7 +43,6 @@ linters:
         - style
     gocyclo:
       min-complexity: 16
-    gomodguard:
       blocked:
         modules:
           - github.com/pkg/errors:
